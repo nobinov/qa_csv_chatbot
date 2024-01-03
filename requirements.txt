@@ -1,0 +1,7 @@
+langchain==0.0.353
+langchain_experimental==0.0.47
+matplotlib==3.8.2
+openai==1.6.1
+pandas==2.1.4
+streamlit==1.29.0
+tabulate
