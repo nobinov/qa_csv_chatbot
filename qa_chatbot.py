@@ -31,6 +31,7 @@ def csv_agent_func(file_path, user_message):
 def display_content_from_json(json_response):
     """
     Display content to Streamlit based on the structure of the provided JSON.
+    Something new
     """
     
     # Check if the response has plain text.
