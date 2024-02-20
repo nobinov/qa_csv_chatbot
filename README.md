@@ -1,5 +1,5 @@
 # Q&A Chatbot for CSV files
-This is a simple Retrieval-Augmented Generation (RAG) to analyze the data of tabular data (`.csv` file) via chatbot. Developed and modified from original source [here](https://www.mlq.ai/csv-assistant-langchain/).
+This is a simple Retrieval-Augmented Generation (RAG) to analyze the data of tabular data (`.csv` file) via chatbot. Developed and modified from original source [here](https://www.mlq.ai/csv-assistant-langchain/). Please refer to the original source.
 
 
 ## Prerequisite
